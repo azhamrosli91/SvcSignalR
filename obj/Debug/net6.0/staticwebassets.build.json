@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "B/HtDeClXFwzc847bmqGSzbFeQEXHaVcL3TqTx/MkGE=",
+  "Source": "SvcSignalR",
+  "BasePath": "_content/SvcSignalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SvcSignalR\\wwwroot",
+      "Source": "SvcSignalR",
+      "ContentRoot": "D:\\Code\\SvcSignalR\\SvcSignalR\\wwwroot\\",
+      "BasePath": "_content/SvcSignalR",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
